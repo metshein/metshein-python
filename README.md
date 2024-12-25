@@ -1,14 +1,12 @@
-# LAB1: Python andmetüübid ja muutujad
+# Programmeerimise alused Python baasil
 
 ## Kirjeldus
 See projekt sisaldab Python ülesandeid, mis on mõeldud õpilastele harjutamiseks ja automaatseks testimiseks.
 
-### Ülesanded
-1. **Tervitus**: Loo ja väljasta kasutaja nime, vanuse ja keskmise hinde põhjal lause.
-2. **Ostunimekiri**: Loo ja väljasta ostunimekirja andmete põhjal lause.
-3. **Reisiplaan**: Loo ja väljasta reisiplaani andmete põhjal lause.
-4. **Lemmikraamat**: Loo ja väljasta raamatu andmete põhjal lause.
-5. **Unistuste auto**: Loo ja väljasta auto andmete põhjal lause.
+## LAB1: Python andmetüübid ja muutujad
+## LAB2: Kasutaja sisestus ja väljundi vormindamine
+## LAB3: Kontrollstruktuurid (if, elif, else)
+## LAB4: Matemaatika moodul
 
 ## Testimine
 Automaatsete testide käivitamiseks:
