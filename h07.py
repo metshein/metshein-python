@@ -1,1 +1,1 @@
-adfghsfghb
+print("tere maailm")
