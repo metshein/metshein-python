@@ -39,6 +39,8 @@ print(f"Temp -20 esineb: {kordused} korda")
 print(jtemp)
 
 
+email
+uname
 
 
 
