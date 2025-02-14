@@ -19,7 +19,7 @@ with open('haridustulemused.json', 'r', encoding='utf-8') as file:
             print(student["nimi"])
             d = student["hinded"]
             for k, v in d.items():
-                print(k, v)
+                print(k, v) 
             print("-----------------------------------")
 
 
